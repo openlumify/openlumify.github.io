@@ -1,7 +1,7 @@
 baseURL: http://something-fresh.org/
 languageCode: en-us
 title: Hugo Fresh Theme
-theme: hugo-fresh
+theme: fresh
 googleAnalytics: #Put in your tracking code without quotes like this: UA-XXXXXX...
 #Disables warningss
 disableKinds:
@@ -16,7 +16,7 @@ params:
   description: 
   navbarlogo:
   # Logo (from static/images/logos/___)
-   image: logos/fresh.svg
+   image: logos/logo-sml.png
    link: /
   font:
     name: "Open Sans"
@@ -43,16 +43,6 @@ params:
   navbar:
   - title: Features
     url: /
-  - title: Pricing
-    url: /
-  - title: Dropdown
-    sublinks:
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
-    - title: Dropdown item
-      url: /
   - title: Log in
     url: /
   - title: Sign up
