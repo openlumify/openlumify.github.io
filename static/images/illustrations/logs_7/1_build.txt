@@ -1,0 +1,15 @@
+2020-01-16T12:03:54.7310322Z ##[section]Starting: Prepare job build
+2020-01-16T12:03:54.7760345Z Evaluating strategy
+2020-01-16T12:03:54.7760345Z Creating job '_8_x'
+2020-01-16T12:03:54.7760345Z Evaluating timeout
+2020-01-16T12:03:54.7760345Z Evaluating cancel timeout
+2020-01-16T12:03:54.7760345Z Evaluating target
+2020-01-16T12:03:54.7760345Z Creating job '_10_x'
+2020-01-16T12:03:54.7760345Z Evaluating timeout
+2020-01-16T12:03:54.7760345Z Evaluating cancel timeout
+2020-01-16T12:03:54.7760345Z Evaluating target
+2020-01-16T12:03:54.7760345Z Creating job '_12_x'
+2020-01-16T12:03:54.7760345Z Evaluating timeout
+2020-01-16T12:03:54.7760345Z Evaluating cancel timeout
+2020-01-16T12:03:54.7760345Z Evaluating target
+2020-01-16T12:03:54.7810346Z ##[section]Finishing: Prepare job build

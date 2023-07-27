@@ -1,0 +1,14 @@
+2020-01-16T12:06:44.3568024Z ##[group]Run actions/setup-java@v1
+2020-01-16T12:06:44.3568266Z with:
+2020-01-16T12:06:44.3568431Z   java-version: 1.8
+2020-01-16T12:06:44.3568648Z   java-package: jdk
+2020-01-16T12:06:44.3568807Z   architecture: x64
+2020-01-16T12:06:44.3568962Z ##[endgroup]
+2020-01-16T12:06:45.9302151Z [command]/bin/tar xzC /home/runner/work/_temp/temp_530290341 -f /home/runner/work/_temp/987edf23-ed3b-462f-863e-4ebe9d999c3a
+2020-01-16T12:06:48.6606581Z ##[set-env name=JAVA_HOME;]/opt/hostedtoolcache/jdk/8.0.242/x64
+2020-01-16T12:06:48.6616010Z ##[set-env name=JAVA_HOME_8.0.242_x64;]/opt/hostedtoolcache/jdk/8.0.242/x64
+2020-01-16T12:06:48.6618032Z ##[add-path]/opt/hostedtoolcache/jdk/8.0.242/x64/bin
+2020-01-16T12:06:48.6621036Z Added matchers: 'java'. Problem matchers scan action output for known warning or error strings and report these inline.
+2020-01-16T12:06:48.6621269Z ##[add-matcher]/home/runner/work/_actions/actions/setup-java/v1/.github/java.json
+2020-01-16T12:06:48.6622772Z creating settings.xml with server-id: github; environment variables: username=$GITHUB_ACTOR and password=$GITHUB_TOKEN
+2020-01-16T12:06:48.6623257Z writing /home/runner/.m2/settings.xml

@@ -1,0 +1,12 @@
+2020-01-16T12:06:30.9856147Z ##[group]Run actions/setup-node@v1
+2020-01-16T12:06:30.9856339Z with:
+2020-01-16T12:06:30.9856458Z   node-version: 12.x
+2020-01-16T12:06:30.9856577Z ##[endgroup]
+2020-01-16T12:06:32.1293887Z [command]/bin/tar xzC /home/runner/work/_temp/4e8f5b06-286e-4f3e-9763-982593672328 -f /home/runner/work/_temp/67892968-88a4-4553-998b-e65609b0fbe2
+2020-01-16T12:06:34.8175470Z ##[add-path]/opt/hostedtoolcache/node/12.14.1/x64/bin
+2020-01-16T12:06:34.8203999Z Added matchers: 'tsc'. Problem matchers scan action output for known warning or error strings and report these inline.
+2020-01-16T12:06:34.8204263Z ##[add-matcher]/home/runner/work/_actions/actions/setup-node/v1/.github/tsc.json
+2020-01-16T12:06:34.8228622Z Added matchers: 'eslint-stylish'. Problem matchers scan action output for known warning or error strings and report these inline.
+2020-01-16T12:06:34.8228907Z ##[add-matcher]/home/runner/work/_actions/actions/setup-node/v1/.github/eslint-stylish.json
+2020-01-16T12:06:34.8259348Z Added matchers: 'eslint-compact'. Problem matchers scan action output for known warning or error strings and report these inline.
+2020-01-16T12:06:34.8259689Z ##[add-matcher]/home/runner/work/_actions/actions/setup-node/v1/.github/eslint-compact.json

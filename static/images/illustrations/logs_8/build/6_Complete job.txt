@@ -1,0 +1,4 @@
+2020-01-16T12:41:48.2078070Z Cleaning up orphan processes
+2020-01-16T12:41:48.2473217Z Terminate orphan process: pid (2565) (java)
+2020-01-16T12:41:48.2578141Z Terminate orphan process: pid (5871) (sh)
+2020-01-16T12:41:48.2664255Z Terminate orphan process: pid (5873) (javadoc)

@@ -7,6 +7,10 @@ Hero styles
     padding-bottom: 6rem;
     .title, .subtitle {
         font-family: 'Open Sans', sans-serif;
+
+        p {
+            margin-bottom: 0.6em;
+        }
     }
     .title {
         &.is-bold {
